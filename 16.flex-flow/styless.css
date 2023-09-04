@@ -1,0 +1,54 @@
+.container1 {
+    border: 3px solid lightgray;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.container2 {
+    border: 3px solid lightgray;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.container3 {
+    border: 3px solid lightgray;
+    display: flex;
+    justify-content: center;
+}
+
+.container4 {
+    border: 3px solid lightgray;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container5 {
+    border: 3px solid lightgray;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container6 {
+    border: 3px solid lightgray;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flex-item {
+    columns: black;
+    font-size: 2rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.item1 {
+    background-color: lightpink;
+}
+
+.item2 {
+    background-color: lightsalmon;
+}
+
+.item3 {
+    background-color: lightyellow;
+}
